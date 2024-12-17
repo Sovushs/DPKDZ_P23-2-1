@@ -1,2 +1,2 @@
 # DZ_DPK_01_10_2024_wpf
-DZ_DPK_01_10_2024_wpf
+DZ_DPK wpf
